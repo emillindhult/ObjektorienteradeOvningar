@@ -54,4 +54,12 @@ internal class Product
 
         stock -= amount;
     }
+
+    public double GiveDiscount(double percent)
+    {
+        if (percent >= 100 || percent < 0)
+            throw new ArgumentException("Discount can't be less than 0 or greater than 100.");
+
+        return price - (percent / 100 * price);
+    }
 }

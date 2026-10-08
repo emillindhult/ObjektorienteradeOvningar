@@ -13,5 +13,21 @@ foreach (var product in products)
     Console.WriteLine($"Price: {product.Price}");
     Console.WriteLine($"Amount {product.Stock}");
     if (product.Stock < 5)
-        Console.WriteLine("Runn");
+        Console.WriteLine("Running low on stock.");
+    Console.WriteLine();
+}
+
+Console.WriteLine(TotalSaldo(products));
+Console.WriteLine($"Discounted price for {product2.Name}: {product2.GiveDiscount(5)}");
+
+static double TotalSaldo(List<Product> products)
+{
+    double sum = 0;
+
+    foreach(var product in products)
+    {
+        sum += (product.Price * product.Stock);
+    }
+
+    return sum;
 }

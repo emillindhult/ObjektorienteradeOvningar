@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Inkapsling/Inkapsling.csproj" />
   <Project Path="ObjektorienteradeOvningar/ObjektorienteradeOvningar.csproj" />
 </Solution>
