@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Usual Suspects",
+    "releaseYear": "1995",
+    "genre": "Thriller",
+    "rating": 8.5,
+    "director": "Bryan Singer"
+  },
+  {
+    "id": 2,
+    "title": "The Departed",
+    "releaseYear": "2006",
+    "genre": "Thriller",
+    "rating": 8.5,
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 3,
+    "title": "The Shawshank Redemption",
+    "releaseYear": "1994",
+    "genre": "Drama",
+    "rating": 9.3,
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "releaseYear": "2010",
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "releaseYear": "1994",
+    "genre": "Drama",
+    "rating": 8.8,
+    "director": "Quentin Tarantino"
+  }
+]

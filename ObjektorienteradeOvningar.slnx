@@ -2,6 +2,7 @@
   <Project Path="Bank/Bank.csproj" Id="58664494-cc11-41c2-823d-ba7b510cc8c3" />
   <Project Path="EventBooking/EventBooking.csproj" Id="cab770ac-69b6-4343-a80c-59ca3a61061e" />
   <Project Path="Inkapsling/Inkapsling.csproj" />
+  <Project Path="JsonFiles/JsonFiles.csproj" Id="106d12ee-94c9-4383-9781-4cc8f22046f3" />
   <Project Path="ObjektorienteradeOvningar/ObjektorienteradeOvningar.csproj" />
   <Project Path="RockPaperScissor/RockPaperScissor.csproj" Id="cba680bb-97e5-4f3c-89e0-9e081602a604" />
 </Solution>
